@@ -191,3 +191,7 @@ Caveats:
 - Only 18 mm tape has been measured. Other widths have other offsets.
 
 Corrections and reports from other models are welcome: open an issue with your model, the link (USB or Bluetooth) and what happened.
+
+## Licence
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): free to share and adapt for any purpose, with credit and a link back here. See [LICENSE](LICENSE). Not affiliated with or endorsed by Brother.
