@@ -194,4 +194,6 @@ Corrections and reports from other models are welcome: open an issue with your m
 
 ## Licence
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): free to share and adapt for any purpose, with credit and a link back here. See [LICENSE](LICENSE). Not affiliated with or endorsed by Brother.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): free to share and adapt for any purpose, with credit and a link back here. See [LICENSE](LICENSE).
+
+Brother, P-touch and the model names used here are trademarks of Brother Industries, Ltd. This guide is not affiliated with or endorsed by Brother.
